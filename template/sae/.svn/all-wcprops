@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/zhblue/hustoj/!svn/ver/2352/trunk/trunk/web/template/sae
+END
+ceinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/ceinfo.php
+END
+comparesource.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/comparesource.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/index.php
+END
+contest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/contest.php
+END
+registerpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/zhblue/hustoj/!svn/ver/2306/trunk/trunk/web/template/sae/registerpage.php
+END
+hoj.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/hoj.css
+END
+status.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/status.php
+END
+conteststatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/conteststatus.php
+END
+ranklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/ranklist.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/zhblue/hustoj/!svn/ver/2109/trunk/trunk/web/template/sae/error.php
+END
+faqs.cn.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/faqs.cn.php
+END
+userinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/userinfo.php
+END
+conteststatistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/conteststatistics.php
+END
+faqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/faqs.php
+END
+submitpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/submitpage.php
+END
+problem.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/problem.php
+END
+problemstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/problemstatus.php
+END
+oj-footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/zhblue/hustoj/!svn/ver/2352/trunk/trunk/web/template/sae/oj-footer.php
+END
+lostpassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/zhblue/hustoj/!svn/ver/2109/trunk/trunk/web/template/sae/lostpassword.php
+END
+contest-header.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/contest-header.php
+END
+loginpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/zhblue/hustoj/!svn/ver/2305/trunk/trunk/web/template/sae/loginpage.php
+END
+problemset.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/problemset.php
+END
+reinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/reinfo.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/mail.php
+END
+online.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/online.php
+END
+modifypage.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/zhblue/hustoj/!svn/ver/2109/trunk/trunk/web/template/sae/modifypage.php
+END
+lostpassword2.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/zhblue/hustoj/!svn/ver/2109/trunk/trunk/web/template/sae/lostpassword2.php
+END
+contestrank.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/contestrank.php
+END
+contestset.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/contestset.php
+END
+recent-contest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/recent-contest.php
+END
+oj-header.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/oj-header.php
+END
+showsource.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/zhblue/hustoj/!svn/ver/2074/trunk/trunk/web/template/sae/showsource.php
+END

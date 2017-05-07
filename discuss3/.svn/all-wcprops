@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/zhblue/hustoj/!svn/ver/2277/trunk/trunk/web/discuss3
+END
+discuss.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/zhblue/hustoj/!svn/ver/2277/trunk/trunk/web/discuss3/discuss.php
+END
+oj-header.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/zhblue/hustoj/!svn/ver/2244/trunk/trunk/web/discuss3/oj-header.php
+END
+newpost.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/newpost.php
+END
+discuss_func.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/discuss_func.inc.php
+END
+threadadmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/threadadmin.php
+END
+hoj.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/hoj.css
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/post.php
+END
+superthread.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/superthread.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/zhblue/hustoj/!svn/ver/2243/trunk/trunk/web/discuss3/index.php
+END
+thread.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/zhblue/hustoj/!svn/ver/2259/trunk/trunk/web/discuss3/thread.php
+END
